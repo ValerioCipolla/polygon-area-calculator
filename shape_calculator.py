@@ -1,6 +1,3 @@
-from turtle import width
-
-
 class Rectangle:
   def __init__(self, width, height):
     self.width = width
